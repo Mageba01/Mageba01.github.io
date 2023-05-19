@@ -1499,9 +1499,9 @@ input::-webkit-inner-spin-button {
 
 .hot-deals {
     height: 600px;
-    background: -o-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('timer-bg.jpg');
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.7))), url('timer-bg.jpg');
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('timer-bg.jpg');
+    background: -o-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('timerbg.jpg');
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.7))), url('timerbg.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('timerbg.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -1604,7 +1604,7 @@ input::-webkit-inner-spin-button {
 
 .customer-review {
     height: 520px;
-    width: 100%;
+    width: 80%;
     padding-top: 1rem;
 }
 
@@ -1732,8 +1732,8 @@ input::-webkit-inner-spin-button {
 .contact-section .image-area {
     height: 50%;
     width: 100%;
-    background: -o-linear-gradient(45deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('contact-bg.jpg');
-    background: linear-gradient(45deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('contact-bg.jpg');
+    background: -o-linear-gradient(45deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('contactk.jpg');
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('contactk.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
